@@ -1,3 +1,6 @@
+# Semantic Prototypes: Enhancing Transparency Without Black Boxes
+
+
 ## Dependencies
 * Install Jupyter Notebook/Lab [https://jupyter.org/install](https://jupyter.org/install).
 * Install a Conda distribution, e.g. [Miniconda](https://docs.anaconda.com/free/miniconda/).
